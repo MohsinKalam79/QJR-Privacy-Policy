@@ -1,6 +1,6 @@
 # **Privacy Policy**
 
-**Effective Date:** June 27, 2025
+**Effective Date:** July 14, 2025
 **App Name:** Quick Jesus Reminder
 **Developer:** Collette Global LLC
 
@@ -12,17 +12,14 @@ Welcome to Quick Jesus Reminder ("QJR", "we", "our", or "us"). Your privacy is i
 
 ---
 
-## **2. Information We Do Not Collect**
+## **2. Information We Collect**
 
-Quick Jesus Reminder is designed with your privacy in mind. We do **not collect, store, or share** any personal or sensitive user data.
+When you register for an account and use Quick Jesus Reminder, we collect the following information:
 
-Specifically, the app:
+* **Account Information:** When you create an account, we collect your email address and a password. Your password is stored in an encrypted or hashed format.
+* **User Preferences:** We collect information about your preferences within the app to personalize your experience.
 
-* Does **not require login or registration**.
-* Does **not collect personal information** such as name, email, or location.
-* Does **not track user behavior** or usage analytics.
-* Does **not access your contacts, camera, microphone, or photo library**.
-* Does **not use third-party advertising or tracking SDKs**.
+We do **NOT** collect other personal information such as your name, location, contacts, camera, microphone, or photo library. We also do not use third-party advertising or tracking SDKs.
 
 ---
 
@@ -40,7 +37,7 @@ We do not knowingly collect or solicit personal information from anyone, includi
 
 ## **5. Data Security**
 
-Since we do not collect or transmit any data, no personal information is stored on servers or shared with third parties. We ensure that the app is built using secure development practices to protect your experience and maintain reliability.
+We are committed to protecting the information you provide to us. We store your email address and encrypted password on secure servers and implement reasonable technical and organizational measures designed to protect your data from unauthorized access, use, or disclosure. We ensure that the app is built using secure development practices to protect your experience and maintain reliability.
 
 ---
 
@@ -50,12 +47,18 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 ---
 
-## **7. Contact Us**
+## **7. Subscriptions**
+
+Quick Jesus Reminder operates on a subscription model to provide you with continuous access to its features and content. Payments for subscriptions are processed securely.
+
+---
+
+## **8. Contact Us**
 
 If you have any questions or concerns about this Privacy Policy, please feel free to contact us:
 
 **Collette Global LLC**
 Email: **[adam@colletteglobal.com](mailto:adam@colletteglobal.com)**
-Developer Email: **[mohsinkalam79@gmail.com](mailto:mohsinkalam79@gmail.com)** 
+Developer Email: **[mohsinkalam79@gmail.com](mailto:mohsinkalam79@gmail.com)**
 
 Developed with <3 by [Maze Digitals](https://mazedigitals.com/)
