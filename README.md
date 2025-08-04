@@ -1,6 +1,7 @@
+
 # **Privacy Policy**
 
-**Effective Date:** July 14, 2025
+**Effective Date:** August 04, 2025
 **App Name:** Quick Jesus Reminder
 **Developer:** Collette Global LLC
 
@@ -47,13 +48,7 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 ---
 
-## **7. Subscriptions**
-
-Quick Jesus Reminder operates on a subscription model to provide you with continuous access to its features and content. Payments for subscriptions are processed securely.
-
----
-
-## **8. Contact Us**
+## **7. Contact Us**
 
 If you have any questions or concerns about this Privacy Policy, please feel free to contact us:
 
@@ -61,4 +56,5 @@ If you have any questions or concerns about this Privacy Policy, please feel fre
 Email: **[adam@colletteglobal.com](mailto:adam@colletteglobal.com)**
 Developer Email: **[mohsinkalam79@gmail.com](mailto:mohsinkalam79@gmail.com)**
 
-Developed with <3 by [Maze Digitals](https://mazedigitals.com/)
+Developed with ❤️ by [Maze Digitals](https://mazedigitals.com/)
+
