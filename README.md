@@ -1,3 +1,6 @@
+Sure! Here's the **updated Privacy Policy** in your exact format with the new changes added:
+
+---
 
 # **Privacy Policy**
 
@@ -19,6 +22,7 @@ When you register for an account and use Quick Jesus Reminder, we collect the fo
 
 * **Account Information:** When you create an account, we collect your email address and a password. Your password is stored in an encrypted or hashed format.
 * **User Preferences:** We collect information about your preferences within the app to personalize your experience.
+* **Push Notification Token:** If you enable push notifications, we collect your device token to send reminders and motivational messages.
 
 We do **NOT** collect other personal information such as your name, location, contacts, camera, microphone, or photo library. We also do not use third-party advertising or tracking SDKs.
 
@@ -30,25 +34,31 @@ All quotes and daily reminders presented in the app are either in the public dom
 
 ---
 
-## **4. Children’s Privacy**
+## **4. Account-Free Access**
+
+Users can access daily motivational quotes without creating an account by tapping the **"Continue without account"** button on the login screen. Creating an account is only required to access additional features such as saving favorites, syncing preferences, and receiving personalized notifications.
+
+---
+
+## **5. Children’s Privacy**
 
 We do not knowingly collect or solicit personal information from anyone, including children under the age of 13. Our app is designed to be safe and appropriate for all age groups.
 
 ---
 
-## **5. Data Security**
+## **6. Data Security**
 
 We are committed to protecting the information you provide to us. We store your email address and encrypted password on secure servers and implement reasonable technical and organizational measures designed to protect your data from unauthorized access, use, or disclosure. We ensure that the app is built using secure development practices to protect your experience and maintain reliability.
 
 ---
 
-## **6. Changes to This Privacy Policy**
+## **7. Changes to This Privacy Policy**
 
 We may update this Privacy Policy from time to time to reflect changes in our practices, technologies, or legal obligations. When we do, the "Effective Date" at the top of this policy will be updated.
 
 ---
 
-## **7. Contact Us**
+## **8. Contact Us**
 
 If you have any questions or concerns about this Privacy Policy, please feel free to contact us:
 
@@ -57,4 +67,3 @@ Email: **[adam@colletteglobal.com](mailto:adam@colletteglobal.com)**
 Developer Email: **[mohsinkalam79@gmail.com](mailto:mohsinkalam79@gmail.com)**
 
 Developed with ❤️ by [Maze Digitals](https://mazedigitals.com/)
-
