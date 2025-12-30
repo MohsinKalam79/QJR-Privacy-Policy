@@ -1,69 +1,63 @@
-Sure! Here's the **updated Privacy Policy** in your exact format with the new changes added:
+# **README**
 
----
-
-# **Privacy Policy**
-
-**Effective Date:** August 04, 2025
 **App Name:** Quick Jesus Reminder
 **Developer:** Collette Global LLC
+**Platform:** iOS
+**Effective Date:** August 04, 2025
 
 ---
 
-## **1. Introduction**
+## **1. About the App**
 
-Welcome to Quick Jesus Reminder ("QJR", "we", "our", or "us"). Your privacy is important to us, and we are committed to protecting it. This Privacy Policy outlines how we handle your information when you use our mobile application, available on iOS.
-
----
-
-## **2. Information We Collect**
-
-When you register for an account and use Quick Jesus Reminder, we collect the following information:
-
-* **Account Information:** When you create an account, we collect your email address and a password. Your password is stored in an encrypted or hashed format.
-* **User Preferences:** We collect information about your preferences within the app to personalize your experience.
-* **Push Notification Token:** If you enable push notifications, we collect your device token to send reminders and motivational messages.
-
-We do **NOT** collect other personal information such as your name, location, contacts, camera, microphone, or photo library. We also do not use third-party advertising or tracking SDKs.
+Quick Jesus Reminder is a mobile application designed to provide inspirational and educational Christian quotes and daily reminders. The app focuses on encouraging users through faith-based content and offers a clean, distraction-free experience.
 
 ---
 
-## **3. Use of Content**
+## **2. Access and Accounts**
 
-All quotes and daily reminders presented in the app are either in the public domain or curated by our editorial team for inspirational and educational purposes. The content is provided to uplift and encourage users in their daily lives.
-
----
-
-## **4. Account-Free Access**
-
-Users can access daily motivational quotes without creating an account by tapping the **"Continue without account"** button on the login screen. Creating an account is only required to access additional features such as saving favorites, syncing preferences, and receiving personalized notifications.
+Users can access basic content without creating an account by selecting **“Continue without account.”**
+Creating an account is optional and is required only for additional features such as saving favorites, syncing preferences across devices, and personalized settings.
 
 ---
 
-## **5. Children’s Privacy**
+## **3. Subscriptions**
 
-We do not knowingly collect or solicit personal information from anyone, including children under the age of 13. Our app is designed to be safe and appropriate for all age groups.
+Quick Jesus Reminder offers **in-app subscriptions** to unlock premium features and content.
 
----
+Subscriptions are billed through the Apple App Store and are managed entirely by Apple. Subscription pricing, billing cycles, and renewal details are displayed at the time of purchase.
 
-## **6. Data Security**
+Subscriptions automatically renew unless canceled at least 24 hours before the end of the current billing period. Users can manage or cancel their subscriptions at any time through their Apple ID settings.
 
-We are committed to protecting the information you provide to us. We store your email address and encrypted password on secure servers and implement reasonable technical and organizational measures designed to protect your data from unauthorized access, use, or disclosure. We ensure that the app is built using secure development practices to protect your experience and maintain reliability.
-
----
-
-## **7. Changes to This Privacy Policy**
-
-We may update this Privacy Policy from time to time to reflect changes in our practices, technologies, or legal obligations. When we do, the "Effective Date" at the top of this policy will be updated.
+Refunds are handled according to Apple’s App Store refund policies. Collette Global LLC does not process payments or issue refunds directly.
 
 ---
 
-## **8. Contact Us**
+## **4. Content Source**
 
-If you have any questions or concerns about this Privacy Policy, please feel free to contact us:
+All quotes and reminders available in the app are either sourced from public domain materials or curated for inspirational and educational purposes.
+
+---
+
+## **5. Data & Privacy**
+
+Quick Jesus Reminder collects minimal user data and does not use third-party advertising or tracking SDKs. For full details on data handling and privacy practices, please refer to the Privacy Policy.
+
+---
+
+## **6. Updates**
+
+The app may receive updates from time to time to improve performance, add features, or comply with platform requirements.
+
+---
+
+## **7. Contact**
+
+If you have questions, feedback, or support requests, please contact:
 
 **Collette Global LLC**
 Email: **[adam@colletteglobal.com](mailto:adam@colletteglobal.com)**
 Developer Email: **[mohsinkalam79@gmail.com](mailto:mohsinkalam79@gmail.com)**
 
-Developed with ❤️ by [Maze Digitals](https://mazedigitals.com/)
+---
+
+Developed with ❤️ by Maze Digitals
