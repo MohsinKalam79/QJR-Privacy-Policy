@@ -3,7 +3,7 @@
 **App Name:** Quick Jesus Reminder
 **Developer:** Collette Global LLC
 **Platforms:** iOS and Android
-**Effective Date:** August 18, 2026
+**Effective Date:** November 17, 2026
 
 ---
 
@@ -21,7 +21,7 @@ Quick Jesus Reminder provides inspirational and educational Christian quotes, da
 
 Quick Jesus Reminder can be used without creating an account by selecting **"Continue without account."**
 
-When using the app without an account, we do not collect account information such as your first name, email address, or password.
+When using the app without an account, we do not collect account information such as your name, email address, or password.
 
 Some features may require an account, including features such as saving favorites, syncing information across devices, and accessing personalized functionality.
 
@@ -31,7 +31,7 @@ If you choose to create an account, we collect the following information:
 
 When you register for an account, we collect:
 
-* First name
+* Name
 * Email address
 * Password
 
@@ -57,18 +57,25 @@ If you enable notifications, Quick Jesus Reminder may store information related 
 
 This information is used to deliver motivational quotes, reminders, and other app notifications according to your preferences.
 
+### Theme Requests
+
+If you choose to submit a theme request, we collect the title, description, and any image you optionally select from your photo library. The image is uploaded only when you choose to attach it and is used solely to review your request.
+
+### Device Information
+
+We collect a device identifier, device brand and model, your device time zone, and a push notification token. This information is used to sign you in, keep your session secure, and deliver notifications at your preferred local time.
+
 ---
 
 ## 3. Information We Do Not Intentionally Collect
 
 Quick Jesus Reminder does not intentionally collect:
 
-* Your last name
 * Precise geographic location
 * Contacts
 * Camera recordings
 * Microphone recordings
-* Photo library content
+* Photos from your library, except an image you choose to attach to a theme request
 * Advertising identifiers for behavioral advertising purposes
 
 Quick Jesus Reminder does not use third-party advertising or tracking SDKs for behavioral advertising.
@@ -87,13 +94,14 @@ Your information may be used to:
 * Save favorite content
 * Sync supported information across devices
 * Deliver notifications at your preferred time
+* Review theme requests you submit
 * Personalize supported app functionality
 * Provide premium features (where applicable)
 * Maintain app security and reliability
 * Troubleshoot technical issues
 * Improve app functionality and user experience
 
-We do not sell your personal information to advertisers.
+We do not sell your personal information.
 
 ---
 
@@ -103,7 +111,7 @@ Quick Jesus Reminder allows users to access certain features without creating an
 
 When using guest access:
 
-* A first name is not required
+* A name is not required
 * An email address is not required
 * A password is not required
 
@@ -154,7 +162,7 @@ We do not knowingly collect personal information from children under the age of 
 
 Users can access certain features of Quick Jesus Reminder without creating an account.
 
-In guest mode, users are not required to provide a first name, email address, or password.
+In guest mode, users are not required to provide a name, email address, or password.
 
 Push notifications, when enabled, are intended to provide general inspirational content and reminders.
 
@@ -176,6 +184,8 @@ These measures are intended to help protect user information against:
 
 However, no electronic transmission, online service, or data storage system can be guaranteed to be completely secure.
 
+Data is transmitted over encrypted (HTTPS) connections.
+
 ---
 
 ## 10. Data Retention
@@ -189,7 +199,7 @@ We retain user information only for as long as reasonably necessary to:
 * Resolve technical or security issues
 * Comply with applicable legal obligations
 
-Users may contact us regarding questions or requests related to their account or personal information, or request account deletion through our deletion portal at `[https://qjr-delete-user.web.app/](https://qjr-delete-user.web.app/)`.
+You can delete your account from the app's Settings screen, or request account deletion through our deletion portal at [https://qjr-delete-user.web.app/](https://qjr-delete-user.web.app/).
 
 ---
 
