@@ -283,9 +283,9 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 **Collette Global LLC**
 
-Email: [adam@colletteglobal.com](https://www.google.com/search?q=mailto%3Aadam%40colletteglobal.com)
+Email: [adam@colletteglobal.com](mailto:adam@colletteglobal.com)
 
-Developer Email: [mohsinkalam79@gmail.com](https://www.google.com/search?q=mailto%3Amohsinkalam79%40gmail.com)
+Developer Email: [mohsinkalam79@gmail.com](mailto:mohsinkalam79@gmail.com)
 
 ---
 
