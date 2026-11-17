@@ -2,7 +2,7 @@
 
 **App Name:** Quick Jesus Reminder
 **Developer:** Collette Global LLC
-**Platform:** iOS
+**Platforms:** iOS and Android
 **Effective Date:** August 18, 2026
 
 ---
@@ -11,7 +11,7 @@
 
 Welcome to Quick Jesus Reminder ("QJR", "we", "our", or "us").
 
-Your privacy is important to us. This Privacy Policy explains what information we collect, how we use it, and how we protect your information when you use the Quick Jesus Reminder mobile application.
+Your privacy is important to us. This Privacy Policy explains what information we collect, how we use it, and how we protect your information when you use the Quick Jesus Reminder mobile application on iOS and Android.
 
 Quick Jesus Reminder provides inspirational and educational Christian quotes, daily reminders, notifications, and faith-based content intended to encourage and inspire users.
 
@@ -88,7 +88,7 @@ Your information may be used to:
 * Sync supported information across devices
 * Deliver notifications at your preferred time
 * Personalize supported app functionality
-* Provide premium features
+* Provide premium features (where applicable)
 * Maintain app security and reliability
 * Troubleshoot technical issues
 * Improve app functionality and user experience
@@ -111,23 +111,23 @@ Certain features that depend on an account, such as syncing account information 
 
 ---
 
-## 6. Subscriptions and Payments
+## 6. Subscriptions, Payments, and Platform Availability
 
-Quick Jesus Reminder offers auto-renewable in-app subscriptions that provide access to premium features and content.
+### Android Users (Free Access)
 
-All subscription purchases on iOS are processed through Apple's App Store.
+Quick Jesus Reminder is currently **completely free to use on Android**. There are no in-app purchases, paid subscriptions, or payment processing on the Android version of the app.
 
-Subscription pricing, available plans, billing periods, and renewal information are displayed within the app before a purchase is completed.
+### iOS Users (In-App Subscriptions)
 
-Payment is charged to the user's Apple ID account upon confirmation of purchase.
+In-app purchases and auto-renewable subscriptions are **available exclusively on iOS** to provide access to premium features and content.
 
-Subscriptions automatically renew unless auto-renewal is canceled in accordance with Apple's subscription terms.
-
-Users can manage or cancel their subscriptions through their Apple ID subscription settings.
-
-Collette Global LLC does not directly collect or process users' Apple payment card information.
-
-Refund requests and payment-related matters are handled according to Apple's applicable App Store policies.
+* All subscription purchases on iOS are processed solely through Apple's App Store.
+* Subscription pricing, available plans, billing periods, and renewal information are displayed within the iOS app before a purchase is completed.
+* Payment is charged to the user's Apple ID account upon confirmation of purchase.
+* Subscriptions automatically renew unless auto-renewal is canceled in accordance with Apple's subscription terms.
+* iOS users can manage or cancel their subscriptions through their Apple ID subscription settings.
+* Collette Global LLC does not directly collect or process users' payment card information.
+* Refund requests and payment-related matters are handled according to Apple's applicable App Store policies.
 
 ---
 
@@ -189,35 +189,36 @@ We retain user information only for as long as reasonably necessary to:
 * Resolve technical or security issues
 * Comply with applicable legal obligations
 
-Users may contact us regarding questions or requests related to their account or personal information.
+Users may contact us regarding questions or requests related to their account or personal information, or request account deletion through our deletion portal at `[https://qjr-delete-user.web.app/](https://qjr-delete-user.web.app/)`.
 
 ---
 
 ## 11. Third-Party Services
 
-Quick Jesus Reminder may rely on services provided by Apple and other technical service providers necessary to operate the application.
+Quick Jesus Reminder may rely on services provided by Apple, Google, and other technical service providers necessary to operate the application.
 
-Apple-related services may include:
+Platform-related services may include:
 
-* App Store purchases
-* Auto-renewable subscriptions
-* Subscription management
-* Push notification services
-* iOS platform functionality
+* App Store purchases and auto-renewable subscriptions (iOS only)
+* Push notification services (Apple Push Notification service and Firebase Cloud Messaging)
+* Cloud hosting, authentication, and database infrastructure
+* iOS and Android platform functionality
 
-The use of Apple services may also be subject to Apple's own privacy policies and terms.
+The use of Apple or Google services may also be subject to their respective privacy policies and terms.
 
 ---
 
-## 12. Auto-Renewable Subscriptions
+## 12. Auto-Renewable Subscriptions (iOS Only)
 
-Quick Jesus Reminder may provide monthly, yearly, or other available subscription options as displayed within the app.
+Auto-renewable subscriptions apply **only to the iOS version** of Quick Jesus Reminder; Android users are not charged for subscriptions.
+
+On iOS, Quick Jesus Reminder may provide monthly, yearly, or other available subscription options as displayed within the app.
 
 Subscription details, including pricing and billing periods, are presented to users before purchase.
 
 Subscriptions automatically renew unless canceled according to Apple's subscription management policies.
 
-Users can manage their subscription through:
+iOS users can manage their subscription through:
 
 **Apple ID → Subscriptions**
 
@@ -227,26 +228,25 @@ The exact options available may depend on the user's device and iOS version.
 
 ## 13. Terms of Use
 
-Quick Jesus Reminder uses Apple's Standard Terms of Use (EULA).
+For iOS users, Quick Jesus Reminder uses Apple's Standard Terms of Use (EULA), available at:
 
-Apple's Standard EULA is available at:
-
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+[https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ---
 
 ## 14. Your Choices
 
-Depending on the features you use, you may be able to:
+Depending on the features and platform you use, you may be able to:
 
 * Use the app without creating an account
 * Enable or disable push notifications
 * Change your preferred notification time
 * Manage your account preferences
-* Manage or cancel your Apple subscription
+* Manage or cancel your Apple subscription (iOS users)
+* Request deletion of your account and associated data
 * Contact us regarding your personal information
 
-Notification permissions can also be managed through the iOS Settings application.
+Notification permissions can also be managed through your device's iOS or Android Settings application.
 
 ---
 
@@ -273,9 +273,9 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 **Collette Global LLC**
 
-Email: [adam@colletteglobal.com](mailto:adam@colletteglobal.com)
+Email: [adam@colletteglobal.com](https://www.google.com/search?q=mailto%3Aadam%40colletteglobal.com)
 
-Developer Email: [mohsinkalam79@gmail.com](mailto:mohsinkalam79@gmail.com)
+Developer Email: [mohsinkalam79@gmail.com](https://www.google.com/search?q=mailto%3Amohsinkalam79%40gmail.com)
 
 ---
 
